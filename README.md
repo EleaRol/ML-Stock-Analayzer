@@ -41,7 +41,7 @@ Average MAE over the 5 test periods (2012 to 2026):
 |Linear regression (HAR)|0.0537|about 11%|
 |Random forest|0.0564|about 6.5%|
 
-Linear regression beat the baseline in all 5 periods and the random forest in 4 of 5. Linear regression was better than the random forest in 3 of the 5 periods, so the difference between them is small. The hardest period for every model was 2018 to 2021, which includes the COVID crash.
+Linear regression beat the baseline in all 5 periods, and the random forest beat it in 4 of 5. Between the two models, linear regression was better in 3 of the 5 periods, so the difference is small. The hardest period for every model was 2018 to 2021, which includes the COVID crash.
 
 ## Limitations
 
